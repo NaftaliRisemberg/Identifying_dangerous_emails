@@ -1,5 +1,4 @@
 import requests
-
 from app.message_simulator.message_simulator import generate_message
 
 DB_URL = 'http://localhost:5000/api/email'
